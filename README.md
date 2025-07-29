@@ -7,4 +7,7 @@ it was funny ngl
 
 # bye
 ==============================
-get the mit license (here)[https://mit-license.org]
+
+-
+# 
+get the mit license [here](https://mit-license.org)
