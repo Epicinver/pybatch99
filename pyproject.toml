@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pybatch99"
+version = "1.0.3"
+description = "Use full Windows batch (.bat) and CMD syntax from Python."
+readme = "README.md"
+requires-python = ">=3.7"
+license = "MIT"
+license-files = ["LICENSE"]
+
+authors = [
+  { name = "Arran Hewitt" }
+]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Operating System :: Microsoft :: Windows",
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Topic :: Software Development :: Libraries :: Python Modules"
+]
+
+[project.urls]
+Homepage = "https://pypi.org/project/pybatch99"
+Repository = "https://github.com/epicinver/pybatch99"
+Issues = "https://github.com/epicinver/pybatch99/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
