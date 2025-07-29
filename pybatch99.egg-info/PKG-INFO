@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: pybatch99
+Version: 1.0.3
+Summary: Use full Windows batch (.bat) and CMD syntax from Python.
+Author: Arran Hewitt
+License-Expression: MIT
+Project-URL: Homepage, https://pypi.org/project/pybatch99
+Project-URL: Repository, https://github.com/epicinver/pybatch99
+Project-URL: Issues, https://github.com/epicinver/pybatch99/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+thanks for using!
+
+
+# batch syntax in python
+idk how i made this
+it was funny ngl
+
+# bye

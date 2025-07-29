@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pybatch99/__init__.py
+pybatch99/core.py
+pybatch99.egg-info/PKG-INFO
+pybatch99.egg-info/SOURCES.txt
+pybatch99.egg-info/dependency_links.txt
+pybatch99.egg-info/top_level.txt
+tests/inpython.py
+tests/newwindow.py
